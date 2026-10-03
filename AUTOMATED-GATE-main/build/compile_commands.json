@@ -1,0 +1,50 @@
+[
+{
+  "directory": "/mnt/d/Downloads/AUTOMATED-GATE/AUTOMATED-GATE-main/build",
+  "command": "/usr/bin/c++  -I/mnt/d/Downloads/AUTOMATED-GATE/AUTOMATED-GATE-main/include -std=gnu++17 -o CMakeFiles/door_access.dir/src/access_controller.cpp.o -c /mnt/d/Downloads/AUTOMATED-GATE/AUTOMATED-GATE-main/src/access_controller.cpp",
+  "file": "/mnt/d/Downloads/AUTOMATED-GATE/AUTOMATED-GATE-main/src/access_controller.cpp",
+  "output": "CMakeFiles/door_access.dir/src/access_controller.cpp.o"
+},
+{
+  "directory": "/mnt/d/Downloads/AUTOMATED-GATE/AUTOMATED-GATE-main/build",
+  "command": "/usr/bin/c++  -I/mnt/d/Downloads/AUTOMATED-GATE/AUTOMATED-GATE-main/include -std=gnu++17 -o CMakeFiles/door_access.dir/src/admin_panel.cpp.o -c /mnt/d/Downloads/AUTOMATED-GATE/AUTOMATED-GATE-main/src/admin_panel.cpp",
+  "file": "/mnt/d/Downloads/AUTOMATED-GATE/AUTOMATED-GATE-main/src/admin_panel.cpp",
+  "output": "CMakeFiles/door_access.dir/src/admin_panel.cpp.o"
+},
+{
+  "directory": "/mnt/d/Downloads/AUTOMATED-GATE/AUTOMATED-GATE-main/build",
+  "command": "/usr/bin/c++  -I/mnt/d/Downloads/AUTOMATED-GATE/AUTOMATED-GATE-main/include -std=gnu++17 -o CMakeFiles/door_access.dir/src/auth_module.cpp.o -c /mnt/d/Downloads/AUTOMATED-GATE/AUTOMATED-GATE-main/src/auth_module.cpp",
+  "file": "/mnt/d/Downloads/AUTOMATED-GATE/AUTOMATED-GATE-main/src/auth_module.cpp",
+  "output": "CMakeFiles/door_access.dir/src/auth_module.cpp.o"
+},
+{
+  "directory": "/mnt/d/Downloads/AUTOMATED-GATE/AUTOMATED-GATE-main/build",
+  "command": "/usr/bin/c++  -I/mnt/d/Downloads/AUTOMATED-GATE/AUTOMATED-GATE-main/include -std=gnu++17 -o CMakeFiles/door_access.dir/src/database_manager.cpp.o -c /mnt/d/Downloads/AUTOMATED-GATE/AUTOMATED-GATE-main/src/database_manager.cpp",
+  "file": "/mnt/d/Downloads/AUTOMATED-GATE/AUTOMATED-GATE-main/src/database_manager.cpp",
+  "output": "CMakeFiles/door_access.dir/src/database_manager.cpp.o"
+},
+{
+  "directory": "/mnt/d/Downloads/AUTOMATED-GATE/AUTOMATED-GATE-main/build",
+  "command": "/usr/bin/c++  -I/mnt/d/Downloads/AUTOMATED-GATE/AUTOMATED-GATE-main/include -std=gnu++17 -o CMakeFiles/door_access.dir/src/door_controller.cpp.o -c /mnt/d/Downloads/AUTOMATED-GATE/AUTOMATED-GATE-main/src/door_controller.cpp",
+  "file": "/mnt/d/Downloads/AUTOMATED-GATE/AUTOMATED-GATE-main/src/door_controller.cpp",
+  "output": "CMakeFiles/door_access.dir/src/door_controller.cpp.o"
+},
+{
+  "directory": "/mnt/d/Downloads/AUTOMATED-GATE/AUTOMATED-GATE-main/build",
+  "command": "/usr/bin/c++  -I/mnt/d/Downloads/AUTOMATED-GATE/AUTOMATED-GATE-main/include -std=gnu++17 -o CMakeFiles/door_access.dir/src/logger.cpp.o -c /mnt/d/Downloads/AUTOMATED-GATE/AUTOMATED-GATE-main/src/logger.cpp",
+  "file": "/mnt/d/Downloads/AUTOMATED-GATE/AUTOMATED-GATE-main/src/logger.cpp",
+  "output": "CMakeFiles/door_access.dir/src/logger.cpp.o"
+},
+{
+  "directory": "/mnt/d/Downloads/AUTOMATED-GATE/AUTOMATED-GATE-main/build",
+  "command": "/usr/bin/c++  -I/mnt/d/Downloads/AUTOMATED-GATE/AUTOMATED-GATE-main/include -std=gnu++17 -o CMakeFiles/door_access.dir/src/main.cpp.o -c /mnt/d/Downloads/AUTOMATED-GATE/AUTOMATED-GATE-main/src/main.cpp",
+  "file": "/mnt/d/Downloads/AUTOMATED-GATE/AUTOMATED-GATE-main/src/main.cpp",
+  "output": "CMakeFiles/door_access.dir/src/main.cpp.o"
+},
+{
+  "directory": "/mnt/d/Downloads/AUTOMATED-GATE/AUTOMATED-GATE-main/build",
+  "command": "/usr/bin/c++  -I/mnt/d/Downloads/AUTOMATED-GATE/AUTOMATED-GATE-main/include -std=gnu++17 -o CMakeFiles/door_access.dir/src/ui_utils.cpp.o -c /mnt/d/Downloads/AUTOMATED-GATE/AUTOMATED-GATE-main/src/ui_utils.cpp",
+  "file": "/mnt/d/Downloads/AUTOMATED-GATE/AUTOMATED-GATE-main/src/ui_utils.cpp",
+  "output": "CMakeFiles/door_access.dir/src/ui_utils.cpp.o"
+}
+]

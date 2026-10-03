@@ -1,0 +1,7 @@
+/mnt/d/Downloads/AUTOMATED-GATE/AUTOMATED-GATE-main/build/CMakeFiles/door_access.dir
+/mnt/d/Downloads/AUTOMATED-GATE/AUTOMATED-GATE-main/build/CMakeFiles/edit_cache.dir
+/mnt/d/Downloads/AUTOMATED-GATE/AUTOMATED-GATE-main/build/CMakeFiles/rebuild_cache.dir
+/mnt/d/Downloads/AUTOMATED-GATE/AUTOMATED-GATE-main/build/CMakeFiles/list_install_components.dir
+/mnt/d/Downloads/AUTOMATED-GATE/AUTOMATED-GATE-main/build/CMakeFiles/install.dir
+/mnt/d/Downloads/AUTOMATED-GATE/AUTOMATED-GATE-main/build/CMakeFiles/install/local.dir
+/mnt/d/Downloads/AUTOMATED-GATE/AUTOMATED-GATE-main/build/CMakeFiles/install/strip.dir
